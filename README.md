@@ -57,16 +57,18 @@
 
 ## 🚀 Featured Projects
 
-### 🧑‍💼 Modi Tribute Page
-🔗 **Repo:** https://github.com/roshan0011830/modi-tribute  
 
-- Tribute page built using **HTML & CSS**
-- Focus on layout, typography & responsiveness
+### Expense Tracker Application 
+🔗 **Visit** https://aashishsencha.github.io/Expense-tracker/
 
----
+### 🚐Abhi Bus Clone
+🔗 **Repo:** https://github.com/AAshishsencha/abhibus-ui-clone
 
-### 👟 Sports Landing Page
-🔗 **Repo:** https://github.com/roshan0011830/sports-landling-page  
+
+### Queue Management Project using React
+🔗 **Repo:** https://github.com/AAshishsencha/Queue-Management-System
+
+
 
 - Modern landing page UI
 - Clean design & responsive layout
