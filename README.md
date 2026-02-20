@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 📍 Based in **India**  
-💻 **Frontend Developer** focused on **HTML, CSS, JavaScript & React**  
+💻 **Frontend Developer** focused on **HTML, CSS, JavaScript  node , Express , React and mongodb **  
 🌱 Currently learning **React.js deeply** and modern frontend practices  
-🎯 Goal: Become a **job-ready frontend / MERN developer**  
+🎯 Goal: Become a **job-ready full Stack / MERN developer**  
 ⚡ Believe in: **Consistency beats perfection**
 
 ---
