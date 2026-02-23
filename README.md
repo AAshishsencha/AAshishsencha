@@ -61,7 +61,7 @@
 ### Expense Tracker Application 
 🔗 **Visit** https://aashishsencha.github.io/Expense-tracker/
 
-### 🚐Abhi Bus Clone
+### 🚐Abhi Bus Clone using html and css
 🔗 **Repo:** https://github.com/AAshishsencha/abhibus-ui-clone
 
 
