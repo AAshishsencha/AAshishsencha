@@ -20,7 +20,7 @@
 
 ---
 
-## 🌐 Connect With Me Aashish Sencha
+## 🌐 Connect With Me 
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/">
