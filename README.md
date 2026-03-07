@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me (Aashish Sencha )
 
 📍 Based in **India**  
 💻 **Frontend Developer** focused on **HTML, CSS, JavaScript  nodejs  , Expresjs , Reactjs and mongodb  **  
