@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects..
 
 
 ### Expense Tracker Application 
