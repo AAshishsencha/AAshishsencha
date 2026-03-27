@@ -62,11 +62,11 @@
 🔗 **Visit** https://aashishsencha.github.io/Expense-tracker/
 
 ### Search Image Engine 
-🔗 **Repo:** https://aashishsencha.github.io/Search-images/
+🔗 **Visit:** https://aashishsencha.github.io/Search-images/
 
 
 ### Queue Management Project using React
-🔗 **Repo:** https://github.com/AAshishsencha/Queue-Management-System
+🔗 **Visit:** https://github.com/AAshishsencha/Queue-Management-System
 
 
 
